@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "temporal-tiger-431312-b7",
+  "private_key_id": "03a56066e8ff7ca1c9d3e3f5bba8ffdac1aab5f5",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCNmw3SR8aksq1d\nQfzHnatERWjujHDN8hpR3Zs97p+XOAj2C261lPgvLtZvGB1KlRfxTYK8H5Wr2iC9\n/Ib62aJN2RYsUagqpn+DiXvKH9AtYfJAVXbqauGA+MMEbtXkExL3LqDb3tkvbc2y\ndoz9wc/bWgH/O19rb3DzEJ5bL2mV7Gdc05p0KM0bzTTh/U5g2NPkBZns6Luvc8tw\nqj6zAUDerEjPGVOFnQH+nPFeNfPMdqSiDQyh92Hk8oD97qaDS7BzSuJ96MfbKZg1\nyLUK4dwfgF3GjjH8WA52Os5Nnlc1fbBhAE7ATLMRRP+3mz2nj0zojGFUjzBY4ClJ\nY03TKiI9AgMBAAECggEAMuIkEcsr5JO1+xxSlnIgEDy2y31YrZBRB9jPR25fF2oR\nwkPyaLpagi3c7Pen0tyHSXS2RR4+XI3ZlRtQb4RTr5CRyKQg/w5sJJp7CnLrDduz\nvo1XWT3FwV/iR84B+t4lwv+U2t0Vgtb8gqPZ3vdNVv9dV1cA3yyg1B7FIHQFh1Lu\nLSX7k3myj7kQgge4u7B/wYET80jFqOenLYrxAdo8yQJtWxdEAehe0K9VmxDKR7vt\nmprXDROtRGuKvnpfhb2iT5ZB1A2b/AADto9wQ9WpFA3cC4wj3G5WaggB9nDj7ZVt\nJFr1P/arVj2DkbbtWGlWoP9qze5KSS74LCAl1BvGOwKBgQC/yRIJ3oddzidtoUF4\nT7sLUqiazia7XA3r2gYumxNbRrzhc3L0ZtMx2Nz607OS828rKaTluljmTR9ajtGH\nFYcUB4TFnh8ho3wBNT6LrQJgEwmY8YevlOqzrnmQY2VsshzjemHXrHlp/+ef5TQz\n57LwCQ/J+Gcu1/wXdY5NqhjfpwKBgQC9BNC3VAR0rJ+pOhbXzqDlU4bou8AVTITQ\n5QBLgRLbFZI6EgVsj13oa9Ilh+P8+QfDqwbmnF0x56PDTF0+Yylz4xncmmUnjl3c\nlxeR3o+18wFhXbY66XXmkuAFuYiynF217Y8SMU1a2nKO1zff9AsuuoPOXhLs2XJJ\nkkzDiuGLewKBgGYr1mJPnMoKo9Kxz9EqmLkFhjFCljvGZNw7QIPftcYwvztUZ+9w\nQB8UK1WtJsOo0JasDt8cEXRPrd5uq41NmLLA9qjY/jjLgaqbFQEQYG2SdtB2DBUs\nPoUO9FBJw6TOlrlRX4Kord4cqOb0EoV8cEWUbkbpAP9hrTlKNU+GyM2NAoGAOQ6m\nDmEPQ0UEoSnG0XgvO2p+U+yw6/0ALqqh7yjUT0vwqxTbjEyutUUu12Nw3+EwhdEv\nsRdMTo808PQxRW7biX7pRJ1aoZkpHjiBxeegC/WB2ilWo+vrSiHV/ARojjoDU7KV\nOJGnXyCH6jRvSmw5n+5vcTEWl2aASFMgVvqqYNcCgYAdWbfZGeyEQf31p+U5mzgS\neL6OKgXPS14x1tjkR9fCznWvaY99ACXfhZAiVX54W+IcnbVMNP/wqo20xjEHaWHE\nSfnjLzgRes+QRuwvs3p4P8MflrxMgmW0m1SxcQLTJjstBk2lue1HDc3SWTWTL/Y7\nszXrxuk0gMRXzyx1Y7iJYA==\n-----END PRIVATE KEY-----\n",
+  "client_email": "service3api@temporal-tiger-431312-b7.iam.gserviceaccount.com",
+  "client_id": "109616520566913700625",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/service3api%40temporal-tiger-431312-b7.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
